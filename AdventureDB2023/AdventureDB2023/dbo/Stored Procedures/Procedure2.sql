@@ -3,6 +3,6 @@
 	@param2 int
 AS
 
-	 Select getdate()
+	--- Select getdate() commented by Yogesh for ver 2
 	SELECT @param1, @param2
 RETURN 0
