@@ -3,4 +3,6 @@
 	@param2 int
 AS
 	SELECT @param1, @param2
+
+	select 'First changes'
 RETURN 0
